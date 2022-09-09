@@ -1,1 +1,0 @@
-# discord-inspired_animated_navbar
