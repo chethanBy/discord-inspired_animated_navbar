@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/discord-inspired_animated_navbar/static/css/main.f936c33d.css",
+    "main.js": "/discord-inspired_animated_navbar/static/js/main.4905977c.js",
+    "index.html": "/discord-inspired_animated_navbar/index.html",
+    "main.f936c33d.css.map": "/discord-inspired_animated_navbar/static/css/main.f936c33d.css.map",
+    "main.4905977c.js.map": "/discord-inspired_animated_navbar/static/js/main.4905977c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f936c33d.css",
+    "static/js/main.4905977c.js"
+  ]
+}
