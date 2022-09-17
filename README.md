@@ -16,11 +16,11 @@ Live- https://chethanby.github.io/discord-inspired_animated_navbar
 
 Light Mode
 
-![App Screenshot](./light)
+![App Screenshot](./light.png)
 
 Dark Mode
 
-![App Screenshot](./dark)
+![App Screenshot](./dark.png)
 
 
 ## Features
