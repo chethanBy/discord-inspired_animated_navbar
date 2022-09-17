@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 
+// get color value from localstorage
 const useLocalStorage = (key, initialValue) => {
   const [storedValue, setStoredValue] = useState(() => {
     try {
@@ -25,7 +26,7 @@ const useLocalStorage = (key, initialValue) => {
   };
   return [storedValue, setValue];
 };
-
+// change flag to set dark mode by toggling class in body
 const useDarkMode = () => {
   const [enabled, setEnabled] = useLocalStorage("dark-theme");
   const isEnabled = typeof enabledState === "undefined" && enabled;

@@ -81,6 +81,7 @@ const BottomBar = () => (
 );
 
 const Post = ({ name, timestamp, text }) => {
+  // random number to image url for different img
   const seed = Math.round(Math.random() * 100);
   return (
     <div className={"post"}>
